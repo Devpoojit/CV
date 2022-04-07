@@ -1,0 +1,44 @@
+body {
+  background-color: #E1E5EA;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  height: 0;
+  width: 17%;
+  border-color: #A7BBC7;
+}
+
+h1 {
+  color: #DA7F8F;
+}
+
+h3 {
+  color: #DA7F8F;
+}
+
+img:hover {
+  transform: scale(1.5);
+}
+
+
+
+/*****************************Class Selectors************************/
+/*
+
+.CLASS_NAME {
+
+}
+
+*/
+
+/*****************************ID Selectors************************/
+/* #heading {
+  color: yellow;
+} */
+
+#profilePic {
+  border-radius: 100%;
+}
